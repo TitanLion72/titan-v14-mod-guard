@@ -1,5 +1,6 @@
 # titan-v14-mod-guard
-v14 Guard ve Moderasyon botlarım yakında paylaşılacak
+v14 Guard ve Moderasyon botlarım yakında paylaşılacak botlar henüz bitmedi bittiğinde star istemeksizin atacağım ama bir star atsanız tadından yenmez ya sdkmsdkmsdkm
+
 ![image](https://user-images.githubusercontent.com/110048828/229815203-ca39a74f-6609-402d-a1e5-17171b43df2f.png)
 ![image](https://user-images.githubusercontent.com/110048828/229815244-7f1055f2-474f-4cac-81f3-1dd1b282d510.png)
 ![image](https://user-images.githubusercontent.com/110048828/229815262-5939fcf1-3c01-4504-b414-9fb3df756421.png)
