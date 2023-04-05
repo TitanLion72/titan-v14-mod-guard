@@ -12,3 +12,4 @@ v14 Guard ve Moderasyon botlarım yakında paylaşılacak botlar henüz bitmedi 
 ![image](https://user-images.githubusercontent.com/110048828/229815299-00ee7ac0-4941-4a84-bcac-142215221fe9.png)
 ![image](https://user-images.githubusercontent.com/110048828/229821123-b6a7f70a-ddeb-4e10-9eeb-d770adc5eb87.png)
 ![image](https://user-images.githubusercontent.com/110048828/229821130-3ffcf00f-697c-4d66-9d24-7628b2f18e7b.png)
+![image](https://user-images.githubusercontent.com/110048828/230103175-af760914-4c83-4e21-92e2-102ea913852c.png)
